@@ -1,4 +1,4 @@
 Oblivion-Mods
 =============
 
-For future work in the Oblivion modding thing.
+Diskmaster's Oblivion modding repository. More than likely, this is development quality stuff.
